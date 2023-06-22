@@ -21,4 +21,6 @@ Un **gran poder** requiere una gran *responsabilidad*
   *subitem
   *subitem
 
-![Fox] (https://i.pinimg.com/564x/ca/0b/b9/ca0bb93d45842551249326f6ab4014c8.jpg)
+![Fox](https://i.pinimg.com/564x/ca/0b/b9/ca0bb93d45842551249326f6ab4014c8.jpg)
+
+[Ir a la imagen](https://i.pinimg.com/564x/ca/0b/b9/ca0bb93d45842551249326f6ab4014c8.jpg)
